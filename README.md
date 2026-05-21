@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm khaled mohamed</h1>
-<h3 align="center">👨‍💻 Computer Science student, always exploring new technologies to improve skills</h3>
+<h3 align="center">👨‍💻  I’m Khaled. I design and build robust, scalable backend architectures and dynamic digital experiences. Focused on clean code, database design, and elegant API integrations.</h3>
 
 - 🌱 I’m currently learning **backend.net**
 
