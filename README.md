@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khaledmohamed7121@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kha-l3d/](https://www.linkedin.com/in/kha-l3d/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kha-l3d/](khaledmohamed.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
