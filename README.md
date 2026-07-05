@@ -53,8 +53,8 @@ I am a **Fresh Software Engineering Graduate 🎓** and a passionate **Backend D
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kha-l3d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Khaled's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kha-l3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kha-l3d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Khaled's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kha-l3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
